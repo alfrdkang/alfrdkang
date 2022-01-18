@@ -1,4 +1,4 @@
-![Alfred Kang](https://github.com/Alfred-Kang/Alfred-Kang/blob/main/yuki.jpg?raw=true)
+![Alfred Kang](https://github.com/Alfred-Kang/Alfred-Kang/blob/main/yuki.jpeg?raw=true)
 
 ## Languages
 <p>

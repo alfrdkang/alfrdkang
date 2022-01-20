@@ -10,6 +10,8 @@
   I am Alfred Kang, and I am a student studying Computing+
   
   I'm still learning most languages, and am a beginner at most of them
+  
+  Open to any opportunities 
 
   *I aspire to be a software/game dev one day*
 

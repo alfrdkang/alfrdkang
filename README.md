@@ -10,8 +10,6 @@
   I am Alfred Kang, and I am a student studying Computing+
   
   I'm still learning most languages, and am a beginner at most of them
-  
-  Open to any opportunities 
 
   *I aspire to be a software/game dev one day*
 
@@ -29,13 +27,17 @@
  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 
-</p>
+# **Projects**
+  ## ***SimplEvents***
+  ##### *Project done with AlphaIncorparated for Secondary 4 Coursework Project
+  ### SimplEvents - Events Made Simple 
+  #### SimplEvents is an event manager and planner app to make planning events, simpler
+  ### Repository: https://github.com/AlphaIncorporated/SimplEvents
+  </p>
 
-<br />
-
-</p>
-
-<br />
-
-![](https://github.com/Alfred-Kang/Alfred-Kang/blob/main/yuki.jpeg?raw=true)
-###### *source: yuki aim*
+  <br />
+  
+  ## ***MinimaLofi***
+  ### MinimaLofi - Easily Access Lofi Music 
+  #### MinimaLofi is a small, easy to use and minimalistic motivation and lofi music app, meant to make playing lofi music just a small app at the corner of the screen for minimal distraction
+  ### Repository: *TBA

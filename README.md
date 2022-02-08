@@ -39,5 +39,5 @@
 
   ## ***MinimaLofi***
   ### MinimaLofi - Easily Access Lofi Music 
-  #### MinimaLofi is a easy to use and minimalistic motivational lofi music app, meant for minimal distraction lofi listening
+  #### MinimaLofi is an easy to use and minimalistic motivational lofi music app, meant for minimal distraction lofi listening
   ### Repository: *TBA

@@ -38,9 +38,6 @@
   <a href="mailto:alfred_kang_jing_rui@s2019.ssts.edu.sg">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  
-## Listening To:
-  [![Spotify](https://j0shbl0ck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/apn53uvnztmaz505y0gpsxyan?si=2d5bf0a1352d40d3)
 
 # **Projects**
   ## ***SimplEvents***

@@ -1,17 +1,14 @@
-# **Alfred Kang Jing Rui**
+# **Alfred Kang**
 ###### *Aspiring Software Developer*
 
 </p>
 
 <br />
   
-**Hello, world!**
-
-  I am Alfred Kang, and I am a student studying Computing+
+## **Hi, I'm Alfred!**
+  I am a student, studying programming
   
   I'm still learning most languages, and am a beginner at most of them
-
-  *I aspire to be a software/game dev one day*
 
   
   
@@ -19,6 +16,9 @@
 ## Languages
 <p>
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ## Software
 <p>
@@ -33,11 +33,3 @@
   ### SimplEvents - Events Made Simple 
   #### SimplEvents is an event manager and planner app to make planning events, simpler
   ### Repository: https://github.com/AlphaIncorporated/SimplEvents
-  </p>
-
-  <br />
-
-  ## ***MinimaLofi***
-  ### MinimaLofi - Easily Access Lofi Music 
-  #### MinimaLofi is an easy to use and minimalistic motivational lofi music app, meant for minimal distraction lofi listening
-  ### Repository: *TBA

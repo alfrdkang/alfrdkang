@@ -40,7 +40,7 @@
   </a>
   
 ## Listening To:
-  [![Spotify](https://j0shbl0ck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/elfred :>)
+  [![Spotify](https://j0shbl0ck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/apn53uvnztmaz505y0gpsxyan?si=2d5bf0a1352d40d3)
 
 # **Projects**
   ## ***SimplEvents***

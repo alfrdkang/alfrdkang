@@ -32,16 +32,6 @@
   <a href="https://instagram.com/elfred._" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://discord.gg/elfred#4538" target="blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="">
-  </a>
   <a href="mailto:alfred_kang_jing_rui@s2019.ssts.edu.sg">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-
-# **Projects**
-  ## ***SimplEvents***
-  ##### *Project done with AlphaIncorparated for Secondary 4 Coursework Project
-  ### SimplEvents - Events Made Simple 
-  #### SimplEvents is an event manager and planner app to make planning events, simpler
-  ### Repository: https://github.com/AlphaIncorporated/SimplEvents

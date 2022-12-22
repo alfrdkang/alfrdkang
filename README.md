@@ -26,7 +26,7 @@
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
  <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
- <img alt = "Unity") src="https://img.shields.io/badge/unity-%2314354C.svg?style=for-the-badge&logo=unity&logoColor=white"/)
+ <img alt = "Unity") src="https://img.shields.io/badge/unity-%2314354C.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   
 ## Contact Me
 <p>

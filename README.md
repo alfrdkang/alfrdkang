@@ -1,37 +1,13 @@
-# **Alfred Kang**
-###### *Aspiring Software Developer*
+# **Hey, I'm Alfred!** 
 
-</p>
+I'm a student developer and designer, proficient in programming languages such as **Python**, **C#** and **JavaScript**. I also use softwares such as **Illustrator**, **Photoshop**, and **Maya**. I'm passionate about creating beautiful and functional applications and solutions that provide amazing user experiences, both in 2D and **3D**. I'm excited to learn more about opportunities in this field, continuing to grow everyday to be better at what I do :)
 
-<br />
-  
-## **Hi, I'm Alfred!**
-  I am a student, studying programming
-  
-  I'm still learning most languages, and am a beginner at most of them
-
-  
-  
-
-## Languages
-<p>
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
- <img alt="C#" src = "https://img.shields.io/badge/csharp-%2314354C.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-
-## Software
-<p>
- <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
- <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
- <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-%2314354C.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
- <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
- <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
- <img alt="Unity") src="https://img.shields.io/badge/unity-%2314354C.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-  
-## Contact Me
-<p>
-  <a href="mailto:alfredkangjr@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+---
+### Here are some of my works:
+- 🌱 [PlantParenting](https://github.com/WTH23-fascinatingTurtle/plantparenting): 
+Utilizes a suite of sensors built into a plant pot, allowing real-time monitoring of the plant's statistics. Created for **[SUTD What The Hack 2023](https://www.sutdwth.com/)**
+- 📅 [SimplEvents](https://github.com/AlphaIncorporated/SimplEvents):
+Event Manager app to make planning events simpler, really simple (and broken) demonstration of Python/Tkinter.
+- 🖥️ [Portfolio Website](https://github.com/Alfred-Kang/portfolio):
+My website @ [alfredkangjr.com](alfredkangjr.com)
+- **WIP** 🛒 [GenericApparel](https://github.com/Alfred-Kang/GenericApparel): Clothing and Apparel E-Commerce Website

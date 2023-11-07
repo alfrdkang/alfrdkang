@@ -1,6 +1,8 @@
 # **Hey, I'm Alfred!** 
 
-I'm a student developer and designer, proficient in programming languages such as **Python**, **C#** and **JavaScript**. I also use softwares such as **Illustrator**, **Photoshop**, and **Maya**. I'm passionate about creating beautiful and functional applications and solutions that provide amazing user experiences, both in 2D and **3D**. I'm excited to learn more about opportunities in this field, continuing to grow everyday to be better at what I do :)
+I'm a student developer and designer, proficient in programming languages such as **Python**, **C#** and **JavaScript**. I also use softwares such as **Illustrator**, **Photoshop**, and **Maya**. 
+
+I'm passionate about creating beautiful and functional applications and solutions that provide amazing user experiences, both in 2D and **3D**. I'm excited to learn more about opportunities in this field, continuing to grow everyday to be better at what I do :)
 
 ---
 ### Here are some of my works:

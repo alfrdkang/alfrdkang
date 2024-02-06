@@ -9,7 +9,8 @@ I'm passionate about creating beautiful and functional applications and solution
 - 🌱 [PlantParenting](https://github.com/WTH23-fascinatingTurtle/plantparenting): 
 Utilizes a suite of sensors built into a plant pot, allowing real-time monitoring of the plant's statistics. Created for **[SUTD What The Hack 2023](https://www.sutdwth.com/)**
 - 📅 [SimplEvents](https://github.com/AlphaIncorporated/SimplEvents):
-Event Manager app to make planning events simpler, really simple (and broken) demonstration of Python/Tkinter.
-- 🖥️ [Portfolio Website](https://github.com/Alfred-Kang/portfolio):
+Event Manager app to make planning events simpler, really simple (and broken) demonstration of Python/Tkinter
+- 🖥️ [Portfolio Website](https://github.com/alfrdkang/portfolio):
 My website @ [alfredkangjr.com](alfredkangjr.com)
-- **WIP** 🛒 [GenericApparel](https://github.com/Alfred-Kang/GenericApparel): Clothing and Apparel E-Commerce Website
+- 🛒 [GenericApparel](https://github.com/alfrdkang/GenericApparel): Clothing and Apparel E-Commerce Website
+- 📚 [StudyPal](https://github.com/alfrdkang/StudyPal): Gamified Studying Interactive Web Application

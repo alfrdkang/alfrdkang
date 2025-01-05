@@ -1,16 +1,10 @@
-# **Hey, I'm Alfred!** 
+# **Hey👋, I'm Alfred Kang** 
 
-I'm a student developer and designer, proficient in programming languages such as **Python**, **C#** and **JavaScript**. I also use softwares such as **Illustrator**, **Photoshop**, and **Maya**. 
+I'm an **18-year-old** student based in Singapore 🇸🇬, currently studying Immersive Media at Ngee Ann Polytechnic. My passion lies in exploring cutting-edge trends in technology, design, and interactive media.
 
-I'm passionate about creating beautiful and functional applications and solutions that provide amazing user experiences, both in 2D and **3D**. I'm excited to learn more about opportunities in this field, continuing to grow everyday to be better at what I do :)
+As a developer and designer, I am proficient in a range of tools and technologies, including Figma, Unity, Maya, Final Cut Pro X for video editing, and programming languages such as Python, JavaScript, and C#.
 
----
-### Here are some of my works:
-- 🌱 [PlantParenting](https://github.com/WTH23-fascinatingTurtle/plantparenting): 
-Utilizes a suite of sensors built into a plant pot, allowing real-time monitoring of the plant's statistics. Created for **[SUTD What The Hack 2023](https://www.sutdwth.com/)**
-- 📅 [SimplEvents](https://github.com/AlphaIncorporated/SimplEvents):
-Event Manager app to make planning events simpler, really simple (and broken) demonstration of Python/Tkinter
-- 🖥️ [Portfolio Website](https://github.com/alfrdkang/portfolio):
-My website @ [alfredkangjr.com](alfredkangjr.com)
-- 🛒 [GenericApparel](https://github.com/alfrdkang/GenericApparel): Clothing and Apparel E-Commerce Website
-- 📚 [StudyPal](https://github.com/alfrdkang/StudyPal): Gamified Studying Interactive Web Application
+## Contact Me
+- [Website](https://alfredkang.com)
+- [LinkedIn](https://www.linkedin.com/in/alfredkangjr/)
+- [Email](mailto:alfredkangjr@gmail.com)
